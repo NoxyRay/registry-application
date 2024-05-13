@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thank You </h1>
-   <h1>TESTINGGG</h1>
+   <h1>TESTINGGGG</h1>
    <br>
    <h1> Happy Learning. See You Again. </h1>
    
